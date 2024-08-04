@@ -1,6 +1,17 @@
 ## Jogo da Cobrinha
 
-<p>Um Jogo da cobrinha.</p>
+
+<p><img align="right" src="https://github.com/0Kunz/PROJETOS/blob/main/Jogo%20da%20Cobrinha/apresentação/Captura%20de%20tela%202024-08-04%20141021.png" /></p>
 
 
-[![Watch the video](https://github.com/0Kunz/PROJETOS/blob/main/Jogo%20da%20Cobrinha/apresentação/inicinal.png)](https://github.com/0Kunz/PROJETOS/blob/main/Jogo%20da%20Cobrinha/apresentação/Vìdeo%20talvez.mp4)
+<p>Uma réplica de um Jogo da cobrinha.</p>
+<hr>
+
+## Principais tecnologias utilizadas
+
+* Python
+* Biblioteca pygame para interface gráfica
+
+<hr>
+</body>
+
