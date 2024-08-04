@@ -8,7 +8,9 @@ width = 1200
 height = 800
 space_game = speed = 50
 tick = 60
-path = 'C:\\Users\\PC\\PycharmProjects\\Cursoemvídeo\\Python EXS\\PROJETOS\\Jogo da Cobrinha\\Sprites\\'
+path_file = f'{__file__}'
+file_name = path_file.split('\\')[-1]
+path = path_file.replace(file_name, 'Sprites\\')
 
 
 class Snake:
