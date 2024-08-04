@@ -3,8 +3,10 @@ import pygame.display
 import pygame
 
 pygame.init()
-path = 'C:\\Users\\PC\\PycharmProjects\\Cursoemvídeo\\EXS\\PROJETOS\\Jogo da Velha\\Imagens\\'
-pathm = 'C:\\Users\\PC\\PycharmProjects\\Cursoemvídeo\\EXS\\PROJETOS\\Jogo da Velha\\músicas\\'
+path_file = f'{__file__}'
+file_name = path_file.split('\\')[-1]
+path = path_file.replace(file_name, 'imagens\\')
+pathm = path_file.replace(file_name, 'músicas\\')
 janela = pygame.display.set_mode((750, 850))
 pygame.mixer.music.load(f'{pathm}Death Note - Ls Theme.mp3')
 icone = pygame.image.load(f'{path}icone.png')
