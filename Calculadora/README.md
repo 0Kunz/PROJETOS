@@ -1,16 +1,16 @@
-## Calculadora
+## Calculator
 
 
 <p><img align="right" src="https://github.com/0Kunz/PROJETOS/blob/main/Calculadora/apresentação/calculadora.png"/></p>
 
 
-<p>Uma calculadora com operações básicas, mas que segue as regras de expresões numéricas.</p>
+<p>A basic calculator</p>
 <hr>
 
-## Principais tecnologias utilizadas
+## Utilized technologies
 
 * Python
-* Biblioteca Tkinter para interface gráfica
+* Tkinter library for UI
   
 <hr>
 </body>
