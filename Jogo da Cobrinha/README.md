@@ -1,16 +1,16 @@
-## Jogo da Cobrinha
+## Snake Game
 
 
 <p><img align="right" src="https://github.com/0Kunz/PROJETOS/blob/main/Jogo%20da%20Cobrinha/apresentação/meio.png" width=50% height=50% /></p>
 
 
-<p>Uma réplica do Jogo da cobrinha.</p>
+<p>Another snake game</p>
 <hr>
 
-## Principais tecnologias utilizadas
+## Utilized technologies
 
 * Python
-* Biblioteca pygame para interface gráfica
+* pygame for UI
 
 <hr>
 </body>
