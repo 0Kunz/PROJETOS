@@ -1,16 +1,16 @@
- ## Jogo da velha
+ ## Tic Tac Toe
 
 
  <p><img align="right" src="https://github.com/0Kunz/PROJETOS/blob/main/Jogo%20da%20Velha/apresentação/fim.png" width=40% height=40% /></p>
 
 
-<p>Uma réplica do Jogo da velha versão aplicativo.</p>
+<p>An replic of a tic tac toe game.</p>
 <hr>
 
-## Principais tecnologias utilizadas
+## Utilized technologies
 
 * Python
-* Biblioteca pygame para interface gráfica
+* Pygame library for UI
 
 <hr>
 </body>
